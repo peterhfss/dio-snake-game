@@ -1,0 +1,26 @@
+body{
+    background-color: #585858;
+}
+
+.into{
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+}
+
+h1{
+    width: 100vh;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(57, 156, 57);
+}
+
+.iconGame{
+    margin: 12px auto;
+    width: 50px;
+    
+}
+.btnGameAgain{
+    margin: 14px auto;
+}
